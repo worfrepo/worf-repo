@@ -19,3 +19,24 @@ Author: Chronic-Dev Inc. <jaywalker@chronic-dev.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: chronic-dev
 
+Package: org.chronic-dev.animate
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: System
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Installed-Size: 204
+Depends: preferenceloader
+Filename: ./debians/org.chronic-dev.animatefix_1.0.3_iphoneos-arm.deb
+Size: 120124
+MD5sum: cd6432a962234c15158b07169a2d894d
+SHA1: 9c085debf2f8b500d86e9324a9d5fd9e95ee7a8d
+SHA256: 98be439274221e4a7141de29690a0176a95fede3c17e729d34a4b222696d3303
+SHA512: b18a6761681febd0770e656506bf844f5fe7191c66f998c4c74092ff91f6e3d0c9bc5cc7863a35c1acd542f763b38f8d4c0333ccae73dc3da6809394c3840993
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Description: Boot Logo Animations for 4.2.1 untether (fixed). Only supports 4.2.1 to 7.1.2.
+Name: animate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Author: Chronic-Dev Inc. <jaywalker@chronic-dev.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: chronic-dev
+
