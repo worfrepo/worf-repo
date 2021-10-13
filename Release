@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: worf
+Components: main
+Date: Wed, 13 Oct 2021 00:25:02 +0000
+Description: Worf's APT repository.
+Label: Worf's repo
+Origin: Worf's repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 8521ea48d0dba4dadc0345d6ce88e406              912 Packages
+ b0567f0bb0c61c94d24e256a59ccf9d1              607 Packages.bz2
+ 44ea7ac25450ae3cbae8a79652815894              554 Packages.gz
+ 8b0548d42a20a93b2d5d6ce91c33ae6f              628 Packages.xz
+ 759c153410ff791ec25dfe7b16e891e2              553 Packages.zst
+ 9e064a4e698b6aa5efb4c06422e6223c              200 Release
+SHA1:
+ 7dc789d729bccb702365657d0231861a8ead0426              912 Packages
+ a811b4aabe413f9012fd724e2711c9d1321f7054              607 Packages.bz2
+ 9c2c27957c7d9f890faadd2487a3c247824bd809              554 Packages.gz
+ 4c2e497bdaa34b942f5f65513743e0d5336e8f02              628 Packages.xz
+ b8ba58b39c0cfcfe4e55fc9939ab8effb8ebb700              553 Packages.zst
+ 0ec1181fd1d5151404a4aa942e7f1eacf56da7ac              200 Release
+SHA256:
+ d4d487925b07963f75be5190bdd8e3bbc5992d1513d90ea96c1bdff39070a258              912 Packages
+ 562143e629143fe18baeb43d4c12405c9dbeb5672532bb3567fea1f1d4a3148d              607 Packages.bz2
+ 824604c6d7085e071d8b508db1b02a9adff87b3a6e16b0c473f02c196669a91c              554 Packages.gz
+ f410f4c733f800d977767b4bc8c932249dfe3d9aea4de92c249823210098e8ef              628 Packages.xz
+ 4508df035914ea1a7da3429b2ca3009f028bb7f5a08ffbfe946f61a434696c99              553 Packages.zst
+ 12e81b825ddeb649f83daf5b41486d87b5d9f9a2625cc25be2b66c42e5b32f1e              200 Release
+SHA512:
+ 4ce42bff15f989d723603c3d9a42e14edccb6a67437e232a980862727b554aedf69c1e0aca68792e400c37f716b21fa03b8399bb5f44ea3f547a465ee560abe6              912 Packages
+ 6b449254ec8ba9b9c227dc5b25175c6aa09494a0de56f5309a97486739b24bb2826b4ed71162abeb7175583bc090db6461e7c0598d0e0ab83c83d05fd965344d              607 Packages.bz2
+ d572277b8621535b222758236511d4bb2123b2b6b4432854ab1815613baa12bb9c025f7bab7441ca62a4439845ec931c1de4a6bc7ecd889e580a858595772cba              554 Packages.gz
+ 1cd84f30d0eaae4c908cf9208d3341b97ebfbbdadbf8550bfa6f9ada6613b868e2d967b5d21fca6e876be43bcf355b4246a7a854028da7177319a2e4431327d3              628 Packages.xz
+ fd002dfcefc05a8eff6d3fad67663667c39fc57fa9ae09513adf0a501346d476019318a320c6f473645b7906b7afe025df1724f415da8aed87012d3ac639ebfb              553 Packages.zst
+ eaa59d31ff4b897f3063ce5008cf93689ee3e9cb4863f4ebc92d87f49970dba63bd5e4e10d81d4b8b5d3a9b1a7be580022372e876c3550194e867b1c0a267dd6              200 Release
