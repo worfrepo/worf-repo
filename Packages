@@ -27,11 +27,11 @@ Maintainer: Bigboss <bigboss@thebigboss.org>
 Installed-Size: 204
 Depends: preferenceloader
 Filename: ./debians/org.chronic-dev.animatefix_1.0.3_iphoneos-arm.deb
-Size: 120124
-MD5sum: cd6432a962234c15158b07169a2d894d
-SHA1: 9c085debf2f8b500d86e9324a9d5fd9e95ee7a8d
-SHA256: 98be439274221e4a7141de29690a0176a95fede3c17e729d34a4b222696d3303
-SHA512: b18a6761681febd0770e656506bf844f5fe7191c66f998c4c74092ff91f6e3d0c9bc5cc7863a35c1acd542f763b38f8d4c0333ccae73dc3da6809394c3840993
+Size: 129726
+MD5sum: 8166fa192e573dbe023145e8478e99f2
+SHA1: ad8df8ffb85777277511d05106494325c2b3d62c
+SHA256: b7df9523b2167e7a599e185a362a2701cf343b81695e78146101e1a12cbf5dc3
+SHA512: 65e5773a56ae74d096bb5c3be34a15289104464add8b286312953888f5e3c41b80958ea10600fd7d2efb3f6e29346ab9b33649a9cd2656f622b2ca59a8205616
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
 Description: Boot Logo Animations for 4.2.1 untether (fixed). Only supports 4.2.1 to 7.1.2.
 Name: animate
