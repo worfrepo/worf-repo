@@ -22,11 +22,11 @@ Maintainer: Bigboss <bigboss@thebigboss.org>
 Installed-Size: 204
 Depends: preferenceloader
 Filename: ./debians/org.chronic-dev.animate_1.0.2.deb
-Size: 129032
-MD5sum: 1600faf75726a6dcf88114e35198275e
-SHA1: a044ed946c9f9e94c1793aa678c0eca10be00781
-SHA256: 2bf992d268a5d0276694c73d611d2aa20ba4d1aa8ed88bc9443b7a6a7a086999
-SHA512: 41cbeeb7a9cbb8b2afb440f1f75496840cfc50007adbd9011afb5c5dd57f4364ebbdb6c0bf2092240dce73cca41939578f408d49fedf8b3cba54059bccffc876
+Size: 129698
+MD5sum: c790a36de4ebc2105d45b39bf9b04897
+SHA1: c73286cb37d617c4a621e051222b970b439dc455
+SHA256: b1f4face92fd41ae042b4ccaf343f1d641ba3088a1728943fb6be09d93a4eea7
+SHA512: c3bdf21ea6d4ede1990db4f304252c6c219607aaef4030669f3a6215f2dc51b0050ab48705d24d03167b058f4a7c33adc74bf81544f80ff06b8112a5d43c6bfc
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
 Description: Boot Logo Animations for 4.2.1 untether
 Name: animate
