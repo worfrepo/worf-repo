@@ -1,0 +1,37 @@
+Package: info1
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Worf <paczki@broadcastre.cc>
+Filename: ./debians/info1_1.0.0_iphoneos-arm.deb
+Size: 1208
+MD5sum: 834e4045815b6727469f218e57a682a5
+SHA1: 1b41af9082262f0c249ec66dc0b790fb8d8317f6
+SHA256: 013c163a0589e760dc6c62f15d3b621e8a618525b567a1991f3c08c80ffa30f0
+SHA512: eb8c141a713e5a64a910a826670e1d763636b420ae338cd45511aff122231124206499724eb9e4f1878b4d8c617d66ba380d29d5c918f1b13a166cef41305cd1
+Description: Sorry
+Tag: cydia::commercial, compatible::ios5
+Name: Important Announcement
+Author: Worf <paczki@broadcastre.cc>
+
+Package: org.chronic-dev.animate
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: System
+Maintainer: Bigboss <bigboss@thebigboss.org>
+Installed-Size: 204
+Depends: preferenceloader
+Filename: ./debians/org.chronic-dev.animatefix_1.0.2_iphoneos-arm.deb
+Size: 129584
+MD5sum: bc5eba93442392fbc32a7fa42f1aa774
+SHA1: 98ed11481aa9e2b933250453bbead97cd3f4e89c
+SHA256: ec8c4d548196d6d528cd5a0b83e7f487c16469d8fb7a35b75064f78f7aba6067
+SHA512: fbcb33bd53c923e7dfbcc2a330475aabab20917d81df5a8874548ccf3573ef4198b2b3840204eb64c3edd8850740edc9c349765aaebf6dd43d4df3dbfc4d2fbf
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Description: Boot Logo Animations for 4.2.1 untether
+Name: animate
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=animateData
+Author: Chronic-Dev Inc. <jaywalker@chronic-dev.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: chronic-dev
+
