@@ -1,3 +1,18 @@
+Package: kirc
+Author: mcpcpc
+Architecture: iphoneos-arm
+Version: 0.2.9
+Priority: optional
+Section: Social
+Maintainer: Worf <paczki@broadcastre.cc>
+Filename: ./debians/kirc_0.2.6_iphoneos-arm.deb
+Size: 11660
+MD5sum: 404b86e6afc425dc39c955f2b1122334
+SHA1: 629768122b3440f9b75df29717ddd9a2de787605
+SHA256: 8517797b78a288d008f82f7ef47d3797031735d34210f3212cbb48792c97f517
+SHA512: d955b22a1f6477e0e2cf4f39afaea1524526640afe99d9e94326f90ad56c1e645b5b9bb570d2dbaed02d8eda7d214853acfb569234931842d293be4587e9a724
+Description: A tiny IRC client written in POSIX C99.
+
 Package: org.chronic-dev.animate
 Architecture: iphoneos-arm
 Version: 1.0.2
